@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,35&height=220&section=header&text=Chaima%20Ganed&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%20Enthusiast&descFontSize=19&descAlignY=62&stroke=00000000" width="100%"/>
+  <img src="assets/banner.svg" alt="Chaima Ganed Banner" width="100%" />
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -20,7 +22,7 @@
 
 ### 👩‍💻 À propos de moi / About Me
 
-Ingénieure passionnée par la conception d'architectures distribuées, le développement Full-Stack et l'Intelligence Artificielle générative. J'aime concevoir des solutions robustes, résilientes et centrées sur l'utilisateur.
+Ingénieure logicielle passionnée par la conception d'**architectures distribuées**, le développement **Full-Stack** et l'**Intelligence Artificielle générative**. J'aime concevoir des solutions robustes, résilientes et centrées sur l'utilisateur.
 
 - 🔭 **Projets récents** : Systèmes RAG (Retrieval-Augmented Generation) pour la vérification scientifique & architectures microservices résilientes.
 - ⚙️ **Spécialités** : Microservices, Patterns de résilience, RAG & LLMs, Algorithmes d'optimisation.
